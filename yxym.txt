@@ -1,8 +1,8 @@
-vpn.stone321.shop:80#石头优选
+vpn.stone321.shop:80#Stone
 acus.cloudflarest.link:80#KKK
 achk.cloudflarest.link:2052#kkk
 acjp.cloudflarest.link:2052#kkk
-acjp.cloudflarest.link:443#优选官方acjp
-acjp2.cloudflarest.link:80#优选域名acjp2
-skk.moe:443#优选官方
-cf.090227.xyz:443#优选官方CM
+acjp.cloudflarest.link:443#acjp
+acjp2.cloudflarest.link:80#acjp2
+skk.moe:443#CF
+cf.090227.xyz:443#CM
