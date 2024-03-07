@@ -1,0 +1,8 @@
+acus.cloudflarest.link 端口80 
+achk.cloudflarest.link 端口2052 
+acjp.cloudflarest.link 端口2052
+石头优选线路（vpn.stone321.shop:80）
+优选官方线路acjp（acjp.cloudflarest.link:443）
+优选域名acjp2（acjp2.cloudflarest.link:80）
+优选官方线路（skk.moe:443）
+优选官方线路CM（cf.090227.xyz:443）
