@@ -1,6 +1,6 @@
 # 代理补充列表
 
-# 域名后缀匹配
+# 域名后缀匹配，电视，电影，IPTV
 DOMAIN-SUFFIX,cdn.hinet.net
 DOMAIN-SUFFIX,4gtv.tv
 DOMAIN-SUFFIX,hinet.net
@@ -10,6 +10,8 @@ DOMAIN-SUFFIX,tvb.com
 DOMAIN-SUFFIX,livednow.com
 DOMAIN-SUFFIX,livednow.org
 DOMAIN-SUFFIX,wx.sb
+DOMAIN-SUFFIX,saohuo.tv
+
 
 # 域名关键字匹配
 
