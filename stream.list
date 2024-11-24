@@ -4,3 +4,7 @@ DOMAIN-KEYWORD,stream-link
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,stream-link.org
+DOMAIN-SUFFIX,error.stream-link.org
+DOMAIN-SUFFIX,sc2024.stream-link.org
+
+
