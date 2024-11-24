@@ -10,10 +10,10 @@ DOMAIN-SUFFIX,livednow.org
 DOMAIN-SUFFIX,wx.sb
 DOMAIN-SUFFIX,saohuo.tv
 DOMAIN-SUFFIX,cdnlz12.com
-DOMAIN-SUFFIX,aktv.top
+# DOMAIN-SUFFIX,aktv.top
 
 # 域名关键字匹配
-DOMAIN-KEYWORD,aktv
+# DOMAIN-KEYWORD,aktv
 # IP段匹配
 
 # 国外DNS
