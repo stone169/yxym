@@ -1,0 +1,6 @@
+# 内容：http://aktv.top/live.m3u
+# 域名关键字匹配
+DOMAIN-KEYWORD,aktv
+
+# 域名后缀匹配
+DOMAIN-SUFFIX,aktv.top
