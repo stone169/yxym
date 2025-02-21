@@ -9,14 +9,11 @@ DOMAIN-SUFFIX,dapanyuntu.com
 DOMAIN-SUFFIX,aktv.top
 DOMAIN-SUFFIX,wewrite.sflep.com
 
-
-
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
 DOMAIN-KEYWORD,aktv
 DOMAIN-KEYWORD,wewrite
-
-
+DOMAIN-KEYWORD,sflep
 
 # IP段匹配
 IP-CIDR,219.146.1.66/32,no-resolve
